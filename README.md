@@ -1,5 +1,7 @@
 # JS-MONSTER JS CODE SNIPPETS
 
+[![Deploy static content to Pages](https://github.com/JS-MONSTER/.GITHUB/actions/workflows/static.yml/badge.svg)](https://github.com/JS-MONSTER/.GITHUB/actions/workflows/static.yml)
+
 ### Table of Contents
 | No. | Questions |
 |---- | ---------
